@@ -1,0 +1,8 @@
+Original:
+
+This are a wrong sentense. He go to school everydays. I is playing football.
+
+
+Corrected:
+
+These is a wrong sentence. He goes to school everyday. I am playing football.

@@ -1,0 +1,5 @@
+Paragraph,Sentiment,Confidence
+I absolutely love the new design of the product. It's amazing!,POSITIVE,0.98
+"The product is not bad, but it could use some improvements.",NEUTRAL,0.68
+I am really disappointed with the product. It didn't meet my expectations.,NEGATIVE,0.92
+The customer service was very helpful and resolved my issue quickly.,POSITIVE,0.95

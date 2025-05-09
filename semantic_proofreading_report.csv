@@ -1,0 +1,4 @@
+Sentence,Grammar Issues,Semantic Check,Confidence
+He go to the school everyday.,The pronoun ‘He’ is usually used with a third-person or a past tense verb.; ‘Everyday’ is an adjective. Did you mean “every day”?,LABEL_1,0.97
+Their coming to the party tomorrow.,None,LABEL_1,0.98
+She has finish her homework.,It appears that the past participle should be used here.,LABEL_1,0.97

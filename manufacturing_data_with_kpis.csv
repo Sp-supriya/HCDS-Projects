@@ -1,0 +1,6 @@
+Machine_ID,Machine_Name,Shift,Start_Time,End_Time,Downtime,Production_Output,Cycle_Time,Resource_Utilization,Total_Production_Time,Machine_Efficiency,Downtime_Ratio
+1,Machine A,Morning,2023-05-01 08:00:00,2023-05-01 14:00,1.0,200,0.3,85,6.0,3333.3333333333335,16.666666666666664
+2,Machine B,Morning,2023-05-01 08:30:00,2023-05-01 14:30,0.5,250,0.4,90,6.0,4166.666666666666,8.333333333333332
+3,Machine C,Evening,2023-05-01 16:00:00,2023-05-01 22:00,2.0,180,0.35,80,6.0,3000.0,33.33333333333333
+4,Machine D,Evening,2023-05-01 16:30:00,2023-05-01 22:30,1.5,220,0.38,88,6.0,3666.6666666666665,25.0
+5,Machine E,Morning,2023-05-01 08:45:00,2023-05-01 15:00,0.8,210,0.36,92,6.25,3360.0,12.8

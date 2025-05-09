@@ -1,0 +1,4 @@
+Original,Corrected,Semantic_Label,Confidence
+He go to the school everyday.,He goes to the school every day.,LABEL_1,0.9277282357215881
+Their coming to the party tomorrow.,Their coming to the party tomorrow.,LABEL_1,0.9762376546859741
+She has finish her homework.,She has finished her homework.,LABEL_1,0.9723153710365295
